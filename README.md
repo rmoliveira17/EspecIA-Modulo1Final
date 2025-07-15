@@ -4,8 +4,8 @@ Este projeto se dedicou a analisar dez criptomoedas vigentes no mercado atual e 
 
 **Moedas Estudadas:**
 
-*AAVE
-*ADA
+*AAVE \\
+*ADA\\
 *AERGO
 *AGLD
 *AKITA
