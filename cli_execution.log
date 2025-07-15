@@ -1,0 +1,4 @@
+2025-07-08 18:35:59,660 - [INFO] - Parâmetros: Cripto=ADA, Modelo=LinearRegression, K-Folds=200, Coluna Alvo=close
+2025-07-08 18:35:59,660 - [INFO] - Carregando dados de '/content/drive/MyDrive/Trabalho_final/data/dataset02.csv'...
+2025-07-08 18:35:59,688 - [INFO] - Iniciando treinamento. Coluna alvo: 'close'
+2025-07-08 18:36:00,642 - [INFO] - RESULTADO: Cripto=ADA, RMSE Médio=$0.0000
